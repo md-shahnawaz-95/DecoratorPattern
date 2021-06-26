@@ -1,5 +1,5 @@
 # Decorator Pattern
-This is a repository for explaining about the decorator pattern.
+This is a repository for explaining about the Decorator pattern.
 
 # Definition
 A decorator pattern attaches additional responsibilities to an object dynamically.
@@ -9,4 +9,4 @@ Decorator provides a flexible alternative to sub classing for extending function
 Classes should be open for extension, but closed for modification
 
 # Structure
-For structure and example please view the diagram.jpg file
+For structure and example please view the decorator_diagram.jpg and decorator_code.jpg file
